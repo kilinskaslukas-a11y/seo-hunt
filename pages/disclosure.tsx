@@ -1,0 +1,1 @@
+export default function Disclosure(){return(<div className='space-y-4'><h1 className='text-2xl font-bold'>Affiliate Disclosure</h1><p className='text-neutral-400'>Ši svetainė naudoja affiliate nuorodas.</p></div>)}

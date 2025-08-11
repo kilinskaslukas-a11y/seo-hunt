@@ -1,0 +1,1 @@
+export default function Vs(){return(<div className='space-y-4'><h1 className='text-2xl font-bold'>Semrush vs Ahrefs</h1><p className='text-neutral-400'>Objektyvus palyginimas — netrukus.</p></div>)}
